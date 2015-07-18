@@ -21,7 +21,11 @@ Sudoku Solver accepts puzzles in the form as a text files as inputs, puzzles mus
 
 Each Element in the puzzle must have one character spacing in between. Unknown elements are represented by **0**. 
 
-####Example of a input puzzle:
+####Example of a puzzle input:
+
+[Original Puzzle.](http://www.telegraph.co.uk/news/science/science-news/9359579/Worlds-hardest-sudoku-can-you-crack-it.html)
+
+Raw Input:
 ```
 8 0 0 0 0 0 0 0 0 
 0 0 3 6 0 0 0 0 0 
