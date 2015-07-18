@@ -28,6 +28,7 @@ int main() {
 	// Print solution and time
 	game.printStats();
 	cout << "Time Taken: " << (double)(clock()-tStart)/CLOCKS_PER_SEC;
+	cout << endl;
 
 	return 0;
 }
